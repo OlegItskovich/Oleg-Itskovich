@@ -1,5 +1,5 @@
 ## Welcome to my repo! 
-#### I’m an IT professional. I enjoy building and testing software, playing chess and socialising with smart people.
+#### I’m an IT professional. I enjoy building automation software.
 These are some of the areas I am focused on right now:
 - Cloud engineering.
 - Networking and Linux anministration.
